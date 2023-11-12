@@ -47,3 +47,6 @@ n == dist.length == speed.length
 1 <= n <= 10^5
 1 <= dist[i], speed[i] <= 10^5
 ```
+---
+# Link
+https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
